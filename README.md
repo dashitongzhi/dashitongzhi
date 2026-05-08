@@ -1,5 +1,5 @@
 <a href="https://github.com/dashitongzhi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=220&section=header&text=Cao%20Hanzhe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20LLM%20Agent%20Developer%20%7C%20RL%20%7C%20Robotics&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=220&section=header&text=kral&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20LLM%20Agent%20Developer%20%7C%20RL%20%7C%20Robotics&descSize=20&descAlignY=55" width="100%"/>
 </a>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 ```yaml
-name: Cao Hanzhe (曹瀚哲)
+name: kral
 located_in: China
 current_focus: [AI Agents, Reinforcement Learning, Robotics]
 education: [Computer Science, AI/ML]
