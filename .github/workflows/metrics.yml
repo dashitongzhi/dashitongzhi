@@ -1,0 +1,54 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dashitongzhi
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          isocalendar: true
+          isocalendar_duration: half-year
+          languages: true
+          languages_limit: 8
+          languages_colors: github
+          languages_other: true
+          languages_details: percentage
+          languages_threshold: 0%
+          habits: true
+          habits_from: 20
+          habits_days: 7
+          habits_charts_type: graph
+          habits_charts_orientation: vertical
+          habits_charts_color: blue
+          habits_trim: true
+          activity: true
+          activity_limit: 5
+          activity_days: 14
+          activity_timestamps: false
+          activity_filter: all
+          achievements: true
+          achievements_threshold: C
+          achievements_secrets: true
+          achievements_display: compact
+          achievements_limit: 0
+          notable: true
+          notable_from: organization
+          notable_repositories: false
+          notable_indepth: false
+          output: metrics.svg

@@ -200,6 +200,71 @@ hobbies: [Open Source, Reading Papers, Building Side Projects]
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/chart_increasing.png" width="35" /> GitHub Metrics
+
+<p align="center">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/dashitongzhi?template=classic&isocalendar=true&isocalendar.duration=half-year&languages=true&languages.limit=8&languages.colors=github&languages.other=true&languages.details=percentage&languages.threshold=0%25&habits=true&habits.from=20&habits.days=7&habits.charts.type=graph&habits.charts.orientation=vertical&habits.charts.color=blue&habits.trim=true&activity=true&activity.limit=5&activity.days=14&activity.timestamps=false&activity.filter=all&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable=true&notable.from=organization&notable.repositories=false&notable.indepth=false&base=header&base.indepth=false&base.hireable=false&base.activity=0&base.community=true&base.repositories=true&base.metadata=true&base.projects=true&config.timezone=Asia/Shanghai" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/chart_decreasing.png" width="35" /> Star History
+
+<p align="center">
+  <a href="https://star-history.com/#dashitongzhi/MingJian&dashitongzhi/agents&dashitongzhi/kwcode&Date">
+    <img src="https://api.star-history.com/svg?repos=dashitongzhi/MingJian,dashitongzhi/agents,dashitongzhi/kwcode&type=Date" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/magnifying_glass_tilted_left.png" width="35" /> GitHub Trends
+
+<p align="center">
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/dashitongzhi/langs" width="48%" />
+  </a>
+  <a href="https://githubtrends.io">
+    <img src="https://api.githubtrends.io/user/svg/dashitongzhi/repos" width="48%" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/clock.png" width="35" /> Profile Summary Cards
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dashitongzhi&theme=github_dark" width="48%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dashitongzhi&theme=github_dark" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dashitongzhi&theme=github_dark" width="48%" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dashitongzhi&theme=github_dark" width="48%" />
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/globe-with-meridians.png" width="35" /> GitHub Wrapped
+
+<p align="center">
+  <a href="https://githubwrapped.tech">
+    <img src="https://githubwrapped.tech/api/dashitongzhi" width="60%" />
+  </a>
+</p>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/globe-showing-asia-australia.png" width="35" /> Open Source Contributions
 
 <p align="center">
