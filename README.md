@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=2000&color=00F536&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%E2%9A%A1+KRAL+%E2%9A%A1;>>>+KRAL_>>>+KRAL_++;$+sudo+KRAL;CTRL+C+CTRL+KRAL;KRAL%7C+RL+%7C+AGENT" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/kral-header.svg" alt="⚡ KRAL ⚡" width="800" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=555555&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act;Open+Source+Contributor+%F0%9F%9A%80;Multi-Agent+Systems+%7C+LLM+Reasoning" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/building-anim.svg" alt="Building agents that reason and act" width="700" />
 </p>
 
 ---
