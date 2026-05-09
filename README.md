@@ -143,13 +143,25 @@ Building automated safety checks — prompt injection detection, red-teaming fra
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="35" /> Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="35" /> Achievements
 
 - 🏆 **Starstruck** — Repository earned 16+ stars
 - 🦈 **Pull Shark** — Merged 30+ pull requests across major open-source projects
 - 📊 **330+ contributions** in the last year
 - 🌍 Contributed to projects from **Meta, PyTorch, Alibaba, NVIDIA, Apache** and more
 - 🚀 Built and maintained **MingJian** — a production-grade multi-agent platform
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg" width="800">
+  </picture>
+</p>
 
 <br/>
 
