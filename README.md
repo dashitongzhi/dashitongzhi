@@ -20,11 +20,53 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
 
-- 🔭 Focused on **Multi-Agent Systems** — building agents that reason, debate, and collaborate
-- 🧠 Deep into **Reinforcement Learning** — from RLHF to agentic reward shaping
-- 🤖 Passionate about **Robotics** — bridging simulation and real-world deployment
-- 🌐 Exploring **LLM Reasoning** — test-time compute, search-augmented generation
-- 💡 Open Source contributor across 15+ AI/agent repositories
+Hi, I'm **Cao Hanzhe (Kral)** — a CS student, AI researcher, and open-source enthusiast.
+
+- 🔭 Building **Multi-Agent Systems** that reason, debate, and collaborate to solve complex real-world problems
+- 🧠 Advancing **Reinforcement Learning** — from RLHF reward modeling to agentic RL with multi-turn reasoning
+- 🤖 Bridging the gap between **simulation and real-world robotics** — sim-to-real transfer, embodied AI
+- 🌐 Pushing the frontier of **LLM Reasoning** — test-time compute scaling, search-augmented generation, tool-use agents
+- 🏗️ Creator of **MingJian (明鉴)** — an evidence-driven multi-agent simulation platform for strategic decision-making
+- 📬 Reach me at: **cajd6876@gmail.com**
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Multi-Agent Orchestration
+
+Designing agent systems where multiple LLMs collaborate through debate protocols, evidence chains, and structured reasoning — not just simple tool-calling.
+
+</td>
+<td width="50%">
+
+### 🧠 Reinforcement Learning
+
+Implementing and fixing core RL algorithms — from PettingZoo parallel environments to LinUCB contextual bandits. Contributing fixes upstream to **pytorch/rl** and **Pearl**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🦾 Robotics & Sim-to-Real
+
+Working with **robosuite** and **NVIDIA IsaacLab** to build robust simulation pipelines that transfer to real robots. Fixing core physics engine bugs and resource management.
+
+</td>
+<td width="50%">
+
+### 🛡️ AI Safety & Evaluation
+
+Building automated safety checks — prompt injection detection, red-teaming frameworks, and LLM evaluation harnesses. Contributing to **Giskard** AI safety platform.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -35,9 +77,9 @@
 > AI-powered multi-agent platform for evidence-driven scenario simulation and strategic decision-making
 
 - ⭐ **19 stars** · Python · FastAPI
-- 🏛️ Supports corporate and military domains
-- 🎭 Multi-agent debate protocol
-- 📊 Evidence-driven simulation engine
+- 🏛️ Supports corporate and military strategic domains
+- 🎭 Multi-agent debate protocol with evidence chains
+- 📊 Real-time scenario simulation engine
 - 🔗 [github.com/dashitongzhi/MingJian](https://github.com/dashitongzhi/MingJian)
 
 <br/>
@@ -52,18 +94,21 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
@@ -85,16 +130,26 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="35" /> Open Source Contributions
 
-> Active contributor to **30+ AI and agent projects** across GitHub
+> Active contributor to **30+ AI and agent projects** across GitHub — fixing core bugs, adding safety features, and improving developer experience
 
-| Category | Projects |
-|:---|:---|
-| 🤖 **Agent Frameworks** | rllm, notte, Composio/agent-orchestrator, stakpak/agent |
-| 🧠 **Reinforcement Learning** | pytorch/rl, facebookresearch/Pearl, alibaba/ROLL |
-| 🦾 **Robotics** | robosuite, IsaacLab, SmolVM |
-| 🔧 **AI Infrastructure** | Kokoro-FastAPI, any-llm, Art, burr |
-| 🛡️ **AI Safety** | Giskard-AI (PromptInjection check), Agent-R1 |
-| 📦 **Dev Tools** | visidata, cc-switch, hermecore, go-micro |
+| Category | Projects | Highlights |
+|:---|:---|:---|
+| 🤖 **Agent Frameworks** | rllm, notte, Composio/agent-orchestrator, stakpak/agent | Core bug fixes, session management, async improvements |
+| 🧠 **Reinforcement Learning** | pytorch/rl, facebookresearch/Pearl, alibaba/ROLL | Fixing PettingZoo parallel env bugs, LinUCB tensor squeeze, agentic LR scheduler |
+| 🦾 **Robotics** | robosuite, IsaacLab, SmolVM | Resource leak fixes, docstring corrections, sim-to-real improvements |
+| 🔧 **AI Infrastructure** | Kokoro-FastAPI, any-llm, Art, burr | Error message fixes, kwargs passthrough, install automation |
+| 🛡️ **AI Safety** | Giskard-AI, Agent-R1 | LLM-based prompt injection detection, red-teaming checks |
+| 📦 **Dev Tools** | visidata, cc-switch, hermecore, go-micro | Shell command fixes, metadata parsing, CI improvements |
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="35" /> Achievements
+
+- 🏆 **Starstruck** — Repository earned 16+ stars
+- 🦈 **Pull Shark** — Merged 30+ pull requests across major open-source projects
+- 📊 **330+ contributions** in the last year
+- 🌍 Contributed to projects from **Meta, PyTorch, Alibaba, NVIDIA, Apache** and more
+- 🚀 Built and maintained **MingJian** — a production-grade multi-agent platform
 
 <br/>
 
@@ -103,6 +158,8 @@
 I'm always open to collaboration on **multi-agent systems**, **RL research**, and **robotics** projects.
 
 If you're building something in the AI agent space — let's talk! 🚀
+
+📧 **cajd6876@gmail.com**
 
 <br/>
 
