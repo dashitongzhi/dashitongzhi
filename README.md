@@ -50,10 +50,6 @@ currently_building: [Hermes Agent, PlanAgent, KWCode]
   <img src="https://streak-stats.demolab.com/?user=dashitongzhi&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashitongzhi&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
