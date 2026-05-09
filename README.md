@@ -1,73 +1,131 @@
-<a href="https://github.com/dashitongzhi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=220&section=header&text=kral&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20LLM%20Agent%20Developer%20%7C%20RL%20%7C%20Robotics&descSize=20&descAlignY=55" width="100%"/>
-</a>
-
 <p align="center">
-  <a href="https://github.com/dashitongzhi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5A0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%A4%96+Building+Intelligent+Agents+that+Learn;Brain+Exploring+the+Frontier+of+AI+%26+RL;Rocket+Turning+Research+into+Real+Robots;Zap+Open+Source+Enthusiast+%7C+100%2B+PRs" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/github-snake.svg">
+  </picture>
 </p>
+
+<!-- Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F536&center=true&vCenter=true&width=600&lines=Multi-Agent+Systems+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act;Open+Source+Contributor+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
+
+- 🔭 Focused on **Multi-Agent Systems** — building agents that reason, debate, and collaborate
+- 🧠 Deep into **Reinforcement Learning** — from RLHF to agentic reward shaping
+- 🤖 Passionate about **Robotics** — bridging simulation and real-world deployment
+- 🌐 Exploring **LLM Reasoning** — test-time compute, search-augmented generation
+- 💡 Open Source contributor across 15+ AI/agent repositories
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" /> Featured Project
+
+### 🏗️ MingJian (明鉴) — Multi-Agent Decision Platform
+> AI-powered multi-agent platform for evidence-driven scenario simulation and strategic decision-making
+
+- ⭐ **19 stars** · Python · FastAPI
+- 🏛️ Supports corporate & military domains
+- 🎭 Multi-agent debate protocol
+- 📊 Evidence-driven simulation engine
+- 🔗 [github.com/dashitongzhi/MingJian](https://github.com/dashitongzhi/MingJian)
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" /> Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**AI / ML**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Infrastructure**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dashitongzhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F536&icon_color=00F536&text_color=C9D1D9)](https://github.com/dashitongzhi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dashitongzhi&theme=dark&hide_border=true&background=0D1117&ring=00F536&fire=00F536&currStreakLabel=00F536&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://git.io/streak-stats)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dashitongzhi&theme=algolia&no-frame=true&no-bg=true&column=4)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" alt="Octopus" width="35" /> Open Source Contributions
+
+> Active contributor to **30+ AI & agent projects** across GitHub
+
+<div align="center">
+
+| Category | Projects |
+|:---|:---|
+| 🤖 **Agent Frameworks** | rllm, notte, Composio/agent-orchestrator, stakpak/agent |
+| 🧠 **Reinforcement Learning** | pytorch/rl, facebookresearch/Pearl, alibaba/ROLL |
+| 🦾 **Robotics** | robosuite, IsaacLab, SmolVM |
+| 🔧 **AI Infrastructure** | Kokoro-FastAPI, any-llm, Art, burr |
+| 🛡️ **AI Safety** | Giskard-AI (PromptInjection check), Agent-R1 |
+| 📦 **Dev Tools** | visidata, cc-switch, hermecore, go-micro |
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" /> Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/dashitongzhi">
-    <img src="https://komarev.com/ghpvc/?username=dashitongzhi&color=blueviolet&style=flat-square&label=Profile+Views" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg" width="800">
+  </picture>
 </p>
 
-```yaml
-name: kral
-located_in: China
-current_focus: [AI Agents, Reinforcement Learning, Robotics]
-education: [Computer Science, AI/ML]
-currently_building: [Hermes Agent, PlanAgent, KWCode]
-```
+<br/>
 
-> *"The best agent is the one that never stops learning."*
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
 
----
+<div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Tech Stack
+I'm always open to collaboration on **multi-agent systems**, **RL research**, and **robotics** projects.
+
+If you're building something in the AI agent space — let's talk! 🚀
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=dashitongzhi&label=Profile+Views&color=00F536&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" /> GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dashitongzhi&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=dashitongzhi&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dashitongzhi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake-dark.svg" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=120&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/header_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/header_light.png">
+    <img alt="header" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/header_light.png" width="800">
+  </picture>
 </p>
