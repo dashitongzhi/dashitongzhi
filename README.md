@@ -6,6 +6,18 @@
   </picture>
 </p>
 
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║   ██╗  ██╗██████╗  █████╗ ██╗         ██████╗██████╗ ██████╗   ║
+║   ██║ ██╔╝██╔══██╗██╔══██╗██║         ██╔══██╗╚════██╗██╔══██╗ ║
+║   █████╔╝ ██████╔╝███████║██║         ██████╔╝ █████╔╝██████╔╝ ║
+║   ██╔═██╗ ██╔══██╗██╔══██║██║         ██╔═══╝  ╚═══██╗██╔═══╝  ║
+║   ██║  ██╗██║  ██║██║  ██║███████╗    ██║     ██████╔╝██║      ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═════╝ ╚═╝      ║
+║            AI Agent Developer | RL | Robotics                   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/kral-header.svg" alt="⚡ KRAL ⚡" width="800" />
 </p>
@@ -13,6 +25,18 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00F536&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act;Open+Source+Contributor+%F0%9F%9A%80;Multi-Agent+Systems+%7C+LLM+Reasoning;Reinforcement+Learning+%7C+Robotics;Test-Time+Compute+%7C+Agent+Orchestration" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dashitongzhi">
+    <img src="https://img.shields.io/github/followers/dashitongzhi?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/dashitongzhi?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/dashitongzhi?style=social" alt="GitHub Stars" />
+  </a>
+  <a href="mailto:cajd6876@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -165,13 +189,53 @@ Building automated safety checks — prompt injection detection, red-teaming fra
 
 <br/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Ask Me About" width="35" /> Ask Me About
+
+<div align="center">
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-00F536?style=for-the-badge&logo=robot-framework&logoColor=black)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![LLM Reasoning](https://img.shields.io/badge/LLM_Reasoning-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Safety](https://img.shields.io/badge/AI_Safety-E53935?style=for-the-badge&logo=safetyculture&logoColor=white)
+![Sim-to-Real](https://img.shields.io/badge/Sim--to--Real-009688?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Currently Working On" width="35" /> Currently Working On
+
+- 🏗️ **MingJian v2** — Enhanced multi-agent debate protocol with evidence chain validation
+- 🧠 **Agentic RL** — Multi-turn reinforcement learning for LLM agents
+- 🦾 **IsaacLab Contributions** — Improving sim-to-real transfer pipelines
+- 🛡️ **Prompt Injection Detection** — Building automated LLM safety evaluation tools
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Quote" width="35" /> Quote
+
+<div align="center">
+
+> *"The question of whether machines can think is about as relevant as the question of whether submarines can swim."*
+> — **Edsger W. Dijkstra**
+
+</div>
+
+<br/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
+
+<div align="center">
 
 I'm always open to collaboration on **multi-agent systems**, **RL research**, and **robotics** projects.
 
 If you're building something in the AI agent space — let's talk! 🚀
 
-📧 **cajd6876@gmail.com**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cajd6876@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dashitongzhi)
+
+</div>
 
 <br/>
 
