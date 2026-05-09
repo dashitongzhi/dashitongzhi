@@ -1,8 +1,19 @@
-<!-- Typing SVG Header -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,30:00F536,70:00B82D,100:0D1117&section=header">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFFFFF,30:00F536,70:00B82D,100:FFFFFF&section=header">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,30:00F536,70:00B82D,100:0D1117&section=header">
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F536&center=true&vCenter=true&width=600&lines=Multi-Agent+Systems+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=00F536&center=true&vCenter=true&width=700&lines=%E2%9A%A1+KRAL+%E2%9A%A1;AI+Agent+Developer+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=555555&center=true&vCenter=true&width=600&lines=Multi-Agent+Systems;Reinforcement+Learning;Robotics+%26+LLM+Reasoning;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -97,4 +108,12 @@ If you're building something in the AI agent space — let's talk! 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dashitongzhi&label=Profile+Views&color=00F536&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:00F536,100:0D1117&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFFFFF,50:00F536,100:FFFFFF&section=footer">
+    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:00F536,100:0D1117&section=footer">
+  </picture>
 </p>
