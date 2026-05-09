@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" width="35" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> About Me
 
 <p align="center">
   <a href="https://github.com/dashitongzhi">
@@ -56,7 +56,7 @@ currently_building: [Hermes Agent, PlanAgent, KWCode]
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dashitongzhi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
