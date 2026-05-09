@@ -157,9 +157,9 @@ Building automated safety checks — prompt injection detection, red-teaming fra
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.svg" width="800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.gif">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/output/github-snake.gif" width="800">
   </picture>
 </p>
 
