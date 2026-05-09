@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
 
 - 🔭 Focused on **Multi-Agent Systems** — building agents that reason, debate, and collaborate
 - 🧠 Deep into **Reinforcement Learning** — from RLHF to agentic reward shaping
@@ -58,7 +58,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" /> GitHub Stats
 
 <div align="center">
 
