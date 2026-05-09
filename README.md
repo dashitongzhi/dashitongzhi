@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dashitongzhi/dashitongzhi/main/assets/building-anim.svg" alt="Building agents that reason and act" width="700" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00F536&center=true&vCenter=true&width=600&lines=AI+Agent+Developer+%7C+RL+%7C+Robotics;Building+agents+that+reason+and+act;Open+Source+Contributor+%F0%9F%9A%80;Multi-Agent+Systems+%7C+LLM+Reasoning;Reinforcement+Learning+%7C+Robotics;Test-Time+Compute+%7C+Agent+Orchestration" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
